@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">News Aggregator</string>
+    <string name="article_headline">Article Headline</string>
+    <string name="article_date">Article Date</string>
+    <string name="article_author">Article Author</string>
+    <string name="article_text">Article Text</string>
+    <string name="article_count">Article Count</string>
+    <string name="open_navigation_drawer">Open navigation drawer</string>
+    <string name="close_navigation_drawer">Close navigation drawer</string>
+    <string name="article_image">Article Image</string>
+</resources>
